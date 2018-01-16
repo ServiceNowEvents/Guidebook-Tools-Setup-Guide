@@ -1,22 +1,33 @@
-# VSCode-Setup-Guide
-Visual Studio Code setup guide for speakers
-## Lab Goal
-Explain the purpose and objective of each section in this area.
-Break labs into groups of related activities and steps.
+# Visual Studio Code and GitHub - Setup Guide
+Visual Studio Code and GitHub setup guide for K18 Lab and CC Workshop speakers.
 
-Examples: 
-* Lab 1 – Create Tables,
-* Lab 2 – Create Access Request Fields
-* Lab 3 – Create Entitlement Fields
+## Overview
+K18 Marks a big change in how we deploy lab guides to our attendees as we move from a printed word document to an electronic and online guide, powered by the MarkDown syntax.
+
+The objectives of this guide is to help our speakers properly configure the Visual Studio and GitHUB tools that are required to create and publish guides. 
+
+Please pay special attention to the notes and tips provided. 
+
+For additional setup assisttance, please send your help requests to [#####@servicenow.com](mailto:gerald.beaulieu@servicenow.com). 
+
+Topics Covered in this Guide: 
+* Topic 1 – GitHub Account
+* Topic 2 – Confgure GitHub locally
+* Topic 3 – Install Visual Studio Code
+* Topic 4 – Accept GitHub org Invitation
+* Topic 5 – Accept Guide Invitation
+* Topic 6 – Access Guide from Visual Studio
+* Topic 7 – Save and Publish Changes
+
 
 Use Heading 1/H1 _only_ for lab titles.  All content under H1 will render as a single page when digital guidebooks are published.
 
-## Lab Sections
-The Heading 2/H2 marker will be used to generate the navigation/table of contents within each lab module.
+# GitHub Account
+## Create and Share Account
+Follow these steps to create and share your GitHub acccount:
 
-# Markdown Tips & Tricks
-## General Formatting Guide
-We're using GitHub not just to store/version guidebooks, but also to render to HTML.  See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) for an introduction to standard formatting.
+1. If you don't have a GitHub account already, navigate to .  [https://github.com/join](https://github.com/join) to create an account. The email address you submit shoudl be your ServiceNow email address. The user name can be whatever you wish.
+1. Send the user name defined in step 1 to [Jason McKee](mailto:jason.mckee@servicenow.com) Jason will submit your name to the GitHub org created for K18. An inviation will be sent to your email that you must accept.
 
 Beyond standard Markdown, we have a few conventions you need to follow for your guidebook to render properly
 
