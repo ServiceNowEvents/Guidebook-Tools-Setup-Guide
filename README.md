@@ -21,7 +21,7 @@ Topics Covered in this Guide:
 Follow these steps to create and share your GitHub acccount:
 
 1. If you don't have a GitHub account already, navigate to .  [https://github.com/join](https://github.com/join) to create an account. The email address you submit shoudl be your ServiceNow email address. The user name can be whatever you wish.
-1. Send the user name defined in step 1 to [Jason McKee](mailto:jason.mckee@servicenow.com) Jason will submit your name to the GitHub org created for K18. An inviation will be sent to your email that you must accept.
+1. Send the user name defined in step 1 to [Jason McKee](mailto:jason.mckee@servicenow.com). Jason will submit your name to the GitHub org created for K18. An inviation will be sent to your email that you must accept.
 
 Beyond standard Markdown, we have a few conventions you need to follow for your guidebook to render properly
 
@@ -51,7 +51,7 @@ Visual Studio Code will be used as the front-end editor for the guide. A templat
 ## Submit User Name
 As a K18 Lab or CC Workshop speaker, you will require access to the GitHub org set up as the repository for our guides. In addition, you will also need permission to download the guide template you are assigned to. Follow these steps to gain access to the org. 
 
-1. If you haven't already, send your registerd GitHub user name to [Jason McKee] (mailto:jason.mckee@servicenow.com) . Jason will submit your name to the GitHub org created for K18. An inviation will be sent to your email that you must accept.
+1. If you haven't already, send your registerd GitHub user name to [Jason McKee](mailto:jason.mckee@servicenow.com). Jason will submit your name to the GitHub org created for K18. An inviation will be sent to your email that you must accept.
 1. Open the invitation email from "GitHub" or "jasontmckeesn" to join the ServiceNow Events organization. 
 1. Click the "Join ServiceNowEvents" button
 1. Repeat these steps for each GitHub invitation you receive. 
