@@ -6,19 +6,15 @@ K18 Marks a big change in how we deploy lab guides to our attendees as we move f
 
 The objectives of this guide is to help our speakers properly configure the Visual Studio and GitHUB tools that are required to create and publish guides. 
 
-Please pay special attention to the notes and tips provided. 
-
-For additional setup assisttance, please send your help requests to [#####@servicenow.com](mailto:gerald.beaulieu@servicenow.com). 
+Please pay special attention to the notes and tips provided.  
 
 Topics Covered in this Guide: 
 * GitHub Configuration
-* Visual Studio Code Installation
+* Visual Studio Code Configuration
 * Org and Guide Template Access
 * Cloning Guide Locally
 * Save and Upload Changes
 
-
-Use Heading 1/H1 _only_ for lab titles.  All content under H1 will render as a single page when digital guidebooks are published.
 
 # GitHub Configuraiton
 ## Create and Share Account
@@ -92,3 +88,4 @@ Saving the file from the menu only saves it locally. You also need to push it up
 1. Select "Push". An idicator should load that it is uploading. 
 1. To verify success, swtich over to GitHub an load up the guide repository. Ensure that your changes are there. 
 
+For additional setup assisttance, please send your help requests to [tbd](mailto:tbd@servicenow.com) .
