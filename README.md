@@ -88,7 +88,9 @@ Saving the file from the menu only saves it locally. You also need to push it up
 1. Select teh icon in the left that looks like a "Y". This is your source control access. 
 1. Type in a short descritpion of the recent changes made. Somethink like "Added new lab 3 to guide". Press the checkmark. 
 1. It may prompt you with a dialog to "Stage" yur changes. Press "Yes"
-1. 
+1. Select the "..." more option to the right of the checkmark. 
+1. Select "Push". An idicator should load that it is uploading. 
+1. To verify success, swtich over to GitHub an laod up the guide repository. Ensure that your changes are there. 
 
 
 ## Lists
