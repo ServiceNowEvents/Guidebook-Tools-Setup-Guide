@@ -92,28 +92,3 @@ Saving the file from the menu only saves it locally. You also need to push it up
 1. Select "Push". An idicator should load that it is uploading. 
 1. To verify success, swtich over to GitHub an laod up the guide repository. Ensure that your changes are there. 
 
-
-## Lists
-While Markdown supports nesting ordered and un-ordered lists, please avoid using nested lists in your guide book.  This is to avoid conflicts with how we style (or rather, don't) nested lists on the Developer Portal.
-
-1. Use numbered lists for task steps
-1. You don't have to manually number each step
-
-    But sometimes you need paragraphs between steps.  In those cases, indent your paragraphs with a tab.
-
-    Multiple paragraphs are OK too.
-
-1. And markdown will pick up numbering where you left off.
-
-# Images
-## General
-
-
-
-## Using Paste Image in Visual Studio Code
-
-Link to howto documentation here:
-
-# Help!
-
-Office Hours once again
