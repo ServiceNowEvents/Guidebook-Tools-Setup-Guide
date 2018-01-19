@@ -92,7 +92,7 @@ Saving the file from the menu only saves it locally. You also need to push it up
 1. Select the "..." more option to the right of the checkmark. 
 1. Select "Push". An idicator should load that it is uploading. 
 
-    
+     ![](images/push.jpeg)
 1. To verify success, swtich over to GitHub an load up the guide repository. Ensure that your changes are there. 
 
 For additional setup assisttance, please send your help requests to [tbd](mailto:tbd@servicenow.com) .
