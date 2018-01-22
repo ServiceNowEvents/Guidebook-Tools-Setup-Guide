@@ -20,7 +20,7 @@ Topics Covered in this Guide:
 ## Create and Share Account
 Follow these steps to create and share your GitHub account:
 
-1. If you don't have a GitHub account already, navigate to .  [https://github.com/join](https://github.com/join) to create an account. The email address you submit should be your ServiceNow email address. The user name can be whatever you wish.
+1. If you don't have a GitHub account already, navigate to [https://github.com/join](https://github.com/join) to create an account. The email address you submit should be your ServiceNow email address. The user name can be whatever you wish.
 1. Send the user name defined in step 1 to [Jason McKee](mailto:jason.mckee@servicenow.com). Jason will submit your name to the GitHub org created for K18. An invitation will be sent to your email that you must accept.
 
 ## Local Configuration
@@ -59,7 +59,7 @@ As a K18 Lab or CC Workshop speaker, you will require access to the GitHub org s
 Now that you have access to the org and repository by accepting the invitation, it's time to start working on your guide. But first, you need to download the guide from the repository to your local computer. Follow these steps to download. This step is only required once. 
 
 1. Log into your GitHub account. 
-1. Under the "Your Repositories" tile on the left, click the lab guide repository for you specific lab. This will open a new window with the files associated with this lab. 
+1. Under the "Your Repositories" tile on the left, click the lab guide repository for your specific lab. This will open a new window with the files associated with this lab. 
 1. Once loaded, click the green "Clone or Download" button. 
 1. From the small dialog that opens, copy\paste the URL. (Note: You can also click the clipboard icon in the dialog)
   ![](images/clone_download_window.jpeg)
