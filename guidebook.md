@@ -32,7 +32,7 @@ The following steps and terminal window commands need to be run on each machine 
     * This may or may not initiate an installation process. If it does, follow the prompts to install. If it doesn't, then it should return a set of potential commands accessible to GIT.
 1. Set your user name with this command. Replace "Mona Lisa" with your name 
 * git config --global user.name "Mona Lisa"
-1. Set your email address with this command. 
+4. Set your email address with this command. 
 * git config --global user.email "email@example.com"
     
 # VS Studio Configuration
@@ -78,7 +78,7 @@ Now that you have access to the org and repository by accepting the invitation, 
 ## Save Changes
 Like any document, it's important to save your changes regularly. To do this follow these steps. 
 
-1. From the File Menu select "Save". That's it! 
+* From the File Menu select "Save". That's it! 
 
 ## Upload Changes to GitHub
 Saving the file from the menu only saves it locally. You also need to push it up to the GitHub site, but it's not necessary to do this every time. Just remember to upload after a major change to the doc and final changes of course. Follow these steps to properly upload your guide back to GitHub
