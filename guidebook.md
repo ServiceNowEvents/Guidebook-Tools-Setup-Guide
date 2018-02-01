@@ -29,20 +29,29 @@ The following steps and terminal window commands need to be run on each machine 
 1. Load a terminal session from your computer
 1. From the prompt type: Git
 
-    * This may or may not initiate an installation process. If it does, follow the prompts to install. If it doesn't, then it should return a set of potential commands accessible to GIT.
+    * On a Mac, this may or may not initiate an installation process. If it does, follow the prompts to install. If it doesn't, then it should return a set of potential commands accessible to GIT.
 1. Set your user name with this command. Replace "Mona Lisa" with your name 
 * git config --global user.name "Mona Lisa"
 4. Set your email address with this command. 
 * git config --global user.email "email@example.com"
     
-# VS Studio Configuration
-## Install Visual Studio Code
+# VS Code Configuration
+## Install Visual Studio Code - Employees
 Visual Studio Code will be used as the front-end editor for the guide. A template will be provided to you as a framework and will be discussed later in this guide. Follow these steps to install Visual Studio Code
 1. Load Self Service from your computer
 1. Select Featured from the categories
 1. Run the "Grant Temporary Admin Rights" option. This will ensure the application can be installed on your computer.
 1. Select Applications from the Categories list
 1. Install the option named Visual Studio Code
+
+## Install & Configure VS Code - Non-employees
+If you aren't an employee, you'll need to install VS Code and the PasteImage plugin.
+1. Download and run the VS Code installer from [https://code.visualstudio.com/](https://code.visualstudio.com/)
+1. Open VS Code and click the Extensions icon ![](images/extensions_icon.png)
+1. Search for `Paste Image`
+
+    ![](images/extension_search.png)
+1. Click ![](images/extension_install.png)
 
 # Org and Guide Template Access
 
