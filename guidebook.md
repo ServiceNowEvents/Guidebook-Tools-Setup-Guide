@@ -25,7 +25,7 @@ Topics Covered in this Guide:
 Follow these steps to create and share your GitHub account:
 
 1. If you don't have a GitHub account already, navigate to [https://github.com/join](https://github.com/join) to create an account. The email address you submit should be your ServiceNow email address. The user name can be whatever you wish.
-1. Send the user name defined in step 1 to [Jason McKee](mailto:jason.mckee@servicenow.com). Jason will submit your name to the GitHub org created for K18. An invitation will be sent to your email that you must accept.
+1. Send the user name defined in step 1 and the Session ID + Title to [Jason McKee](mailto:jason.mckee@servicenow.com). Jason will submit your name to the GitHub org created for K18. An invitation will be sent to your email that you must accept.
 
 ## Local Configuration
 
