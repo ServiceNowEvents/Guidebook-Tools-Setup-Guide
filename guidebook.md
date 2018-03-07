@@ -37,7 +37,7 @@ The following steps and terminal window commands need to be run on each machine 
     * On a Mac, this may or may not initiate an installation process. If it does, follow the prompts to install. If it doesn't, then it should return a set of potential commands accessible to GIT.
 1. Set your user name with this command. Replace "Mona Lisa" with your name
 * git config --global user.name "Mona Lisa"
-1. Set your email address with this command. 
+1. Set your email address with this command.
 * git config --global user.email "email@example.com"
 
 # VS Code Configuration
@@ -80,7 +80,7 @@ As a K18 Lab or CC Workshop speaker, you will require access to the GitHub org s
 
 Now that you have access to the org and repository by accepting the invitation, it's time to start working on your guide. But first, you need to download the guide from the repository to your local computer. Follow these steps to download. This step is only required once.
 
-1. Log into your GitHub account. 
+1. Log into your GitHub account.
 1. Under the "Your Repositories" tile on the left, click the lab guide repository for your specific lab. This will open a new window with the files associated with this lab. ][[mmm ]]
 1. Once loaded, click the green "Clone or Download" button.
 1. From the small dialog that opens, copy\paste the URL. (Note: You can also click the clipboard icon in the dialog)
@@ -100,9 +100,9 @@ Now that you have access to the org and repository by accepting the invitation, 
 
 ## Save Changes
 
-Like any document, it's important to save your changes regularly. To do this follow these steps. 
+Like any document, it's important to save your changes regularly. To do this follow these steps.
 
-* From the File Menu select "Save". That's it! 
+* From the File Menu select "Save". That's it!
 
 ## Upload Changes to GitHub
 
