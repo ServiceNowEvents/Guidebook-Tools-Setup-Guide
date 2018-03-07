@@ -120,6 +120,8 @@ Saving the file from the menu only saves it locally. You also need to push it up
      ![Push command](images/push.jpeg)
 1. To verify success, switch over to GitHub an load up the guide repository. Ensure that your changes are there.
 
+# Finding help
+
 For additional setup assistance, please look at the [wiki](https://github.com/ServiceNowEvents/VSCode-Setup-Guide/wiki) for the [Troubleshooting FAQ](https://github.com/ServiceNowEvents/VSCode-Setup-Guide/wiki/Troubleshooting-FAQ).
 
 Markdown/GitHub Office hours are held Fridays:
