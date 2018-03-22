@@ -33,6 +33,10 @@ Follow these steps to create and share your GitHub account:
 
 ## Local Configuration
 
+<!---
+This is a test comment from Stan to see if it's viewable: This section is confusing. I need to check with Jason about configuring this locally on my Mac because I'm already using our infodev git / oxygen / eclipse to manage our DITA documentation map. I'll join his office hours tomorrow morning.
+-->
+
 The following steps and terminal window commands need to be run on each machine to ensure GitHub is configured correctly to run with VS Studio and to properly access the GitHub repository.
 
 1. Load a terminal session from your computer
@@ -139,3 +143,5 @@ Markdown/GitHub Office hours are held Fridays:
     Intended for the Americas.
 
 Join the webex [https://servicenow-cmr.webex.com/meet/Dave.Slusher](https://servicenow-cmr.webex.com/meet/Dave.Slusher)
+
+# Test H1 from Stan (should be rejected or deleted if merged into master)
