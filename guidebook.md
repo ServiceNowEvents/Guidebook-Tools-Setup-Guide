@@ -8,7 +8,11 @@ K18 Marks a big change in how we deploy lab guides to our attendees as we move f
 
 The objectives of this guide are to help our speakers properly configure the Visual Studio and GitHub tools that are required to create and publish guides.
 
-Please pay special attention to the notes and tips provided.
+Please pay special attention to the notes and tips provided (test).
+
+<!---
+This is a test comment from Gerald to see if it displays
+-->
 
 Topics Covered in this Guide:
 
