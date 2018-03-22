@@ -14,6 +14,8 @@ Please pay special attention to the notes and tips provided (test).
 This is a test comment from Gerald to see if it displays
 -->
 
+[](another commnent)
+
 Topics Covered in this Guide:
 
 * GitHub Configuration
