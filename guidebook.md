@@ -128,14 +128,7 @@ Saving the file from the menu only saves it locally. You also need to push it up
 
 For additional setup assistance, please look at the [wiki](https://github.com/ServiceNowEvents/VSCode-Setup-Guide/wiki) for the [Troubleshooting FAQ](https://github.com/ServiceNowEvents/VSCode-Setup-Guide/wiki/Troubleshooting-FAQ).
 
-Markdown/GitHub Office hours are held Fridays:
+Slack is the preferred channel for support: [K19_labs_cc_support](https://now-servicenow.slack.com/messages/CGMMXCMGW)
 
-* 8:30 AM EST / 1330 GMT for 30 minutes
+Markdown/GitHub Office hours are held Fridays at 9am Pacific in the [Zoom room](https://servicenow.zoom.us/j/4299856207)
 
-     Intended for EMEA and eastern points
-
-* noon EST / 1700 GMT for one hour
-
-    Intended for the Americas.
-
-Join the webex [https://servicenow-cmr.webex.com/meet/Dave.Slusher](https://servicenow-cmr.webex.com/meet/Dave.Slusher)
