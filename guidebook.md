@@ -4,7 +4,7 @@ Visual Studio Code and GitHub setup guide for K18 Lab and CC Workshop speakers.
 
 ## Overview
 
-K18 Marks a big change in how we deploy lab guides to our attendees as we move from a printed word document to an electronic and online guide, powered by the MarkDown syntax.
+K19 Marks a big change in how we deploy lab guides to our attendees as we move from a printed word document to an electronic and online guide, powered by the MarkDown syntax.
 
 The objectives of this guide are to help our speakers properly configure the Visual Studio and GitHub tools that are required to create and publish guides.
 
@@ -29,7 +29,7 @@ Topics Covered in this Guide:
 Follow these steps to create and share your GitHub account:
 
 1. If you don't have a GitHub account already, navigate to [https://github.com/join](https://github.com/join) to create an account. The email address you submit should be your ServiceNow email address. The user name can be whatever you wish.
-1. Send the user name defined in step 1 and the Session ID + Title to [Jason McKee](mailto:jason.mckee@servicenow.com). Jason will submit your name to the GitHub org created for K18. An invitation will be sent to your email that you must accept.
+1. Fill in your GitHub username (noet email address) in the SRC.  An invitation will be sent to your email that you must accept.
 
 ## Local Configuration
 
@@ -71,9 +71,9 @@ If you aren't an employee, you'll need to install VS Code and the PasteImage plu
 
 ## Submit User Name
 
-As a K18 Lab or CC Workshop speaker, you will require access to the GitHub org set up as the repository for our guides. In addition, you will also need permission to download the guide template you are assigned to. Follow these steps to gain access to the org.
+As a K19 Lab or CC Workshop speaker, you will require access to the GitHub org set up as the repository for our guides. In addition, you will also need permission to download the guide template you are assigned to. Follow these steps to gain access to the org.
 
-1. If you haven't already, send your registered GitHub user name to [Jason McKee](mailto:jason.mckee@servicenow.com). Jason will submit your name to the GitHub org created for K18. An invitation will be sent to your email that you must accept.
+1. If you haven't already, enter your GitHub username in the SRC. An invitation will be sent to your email that you must accept.
 1. Open the invitation email from "GitHub" or "jasontmckeesn" to join the ServiceNow Events organization. 
 1. Click the "Join ServiceNowEvents" button
 1. Repeat these steps for each GitHub invitation you receive. The second invitation should grant you access to your guide repository.
