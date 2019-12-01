@@ -1,23 +1,20 @@
 # Visual Studio Code and GitHub - Setup Guide
 
-Visual Studio Code and GitHub setup guide for K18 Lab and CC Workshop speakers.
+Visual Studio Code and GitHub setup guide for Knowledge Lab and CreatorCon Workshop speakers.
 
 ## Overview
 
-K19 Marks a big change in how we deploy lab guides to our attendees as we move from a printed word document to an electronic and online guide, powered by the MarkDown syntax.
+Knowledge and CreatorCon no longer use printed lab guides for our attendees. Since 2018, we have moved to electronic lab guides powered by Markdown syntax.
 
-The objectives of this guide are to help our speakers properly configure the Visual Studio and GitHub tools that are required to create and publish guides.
+The objectives of this guide are to help our speakers properly configure the tools that are required to create and publish guides.
 
 Please pay special attention to the notes and tips provided.
-
-<!---
-This is a test comment from Gerald to see if it displays
--->
 
 Topics Covered in this Guide:
 
 * GitHub Configuration
 * Visual Studio Code Configuration
+* SnagIt Configuration
 * Org and Guide Template Access
 * Cloning Guide Locally
 * Save and Upload Changes
@@ -66,6 +63,25 @@ If you aren't an employee, you'll need to install VS Code and the PasteImage plu
 
     ![Extension search ](images/extension_search.png)
 1. Click ![Extension install](images/extension_install.png)
+
+# SnagIt Configuration
+
+## Overview
+
+SnagIt is a Mac and Windows software package that offers the ability to easily capture and annotate images used in your guidebook. While other tools exist that do many of the same features, SnagIt offers some very nice capabilities to make the process of inserting professional looking images easily. If you are already familiar with another package (e.g. Skitch), ensure it has the following features:
+
+* Annotate the image with boxes, arrows, and text
+* Place 1 point borders around the image
+* Export images to a specific size
+* Place numeric markers (1, 2, 3) on a single image
+* Crop the image
+* Pixelate secure/private information
+
+ SnagIt is a licensed product. ServiceNow employees can use a Surf request to get a license and install.
+
+* To ensure images appear at the appropriate size, in Snagit preferences, set the option to **Scale down retina images when sharing**.
+
+![](SnagIt%20Scale%20Images.png)
 
 # Org and Guide Template Access
 
